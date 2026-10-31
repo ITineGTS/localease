@@ -43,7 +43,7 @@ The current app is ad hoc signed. Trusted public distribution requires Developer
 
 The simplest way to use the browser version is to [open LocalEase](https://localease-api.onrender.com/).
 
-The optional `LocalEase-web-release.zip` contains the compiled browser application. An operator can unpack its contents into the configured backend's `web/` folder so the app and `/api` share one origin. Serving it from an unrelated static host requires suitable API/CORS/browser-session configuration; opening `index.html` directly from disk is not the supported deployment.
+No downloadable web package is included in the releases.
 
 ## Verify downloads
 
