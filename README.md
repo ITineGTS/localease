@@ -10,6 +10,8 @@ LocalEase helps residents find nearby service providers, request appointments, m
 - Review provider details, service prices and customer reviews.
 - Book a service using an address, saved destination and confirmed map pin.
 - View available hours and discuss quotes or appointment changes.
+- Search around a chosen location with an editable distance and category filters.
+- Offer multiple service categories and request new categories for admin review.
 - Message the other participant and follow the booking's progress.
 - Use provider-shared GPS or clearly labelled saved-location previews.
 - Leave reviews and submit private reports to LocalEase support.
@@ -22,14 +24,11 @@ EasePay currently uses **demo balances**, alongside Cash on Site records. Demo f
 | Platform | Package | Notes |
 |---|---|---|
 | Android | APK | Signed app for direct installation; Android 7.0 or later. |
-| Android distribution | AAB | Signed bundle for distribution tooling; not directly installable. |
 | Windows x64 | ZIP | Portable unsigned application. |
-| Linux x64 | TAR.GZ | Complete executable/library/data bundle; built on Ubuntu 26.04.1. |
 | macOS | ZIP | Universal Intel/Apple Silicon app; macOS 12 or later, ad hoc signed. |
 | iOS | IPA | Unsigned iPhoneOS/arm64 artifact; iOS 15 or later and Apple signing/provisioning required. |
-| Web | Hosted app | Use the web-app link; no downloadable web package is published. |
 
-The [release page](https://github.com/ITineGTS/localease/releases/latest) includes the files and `SHA256SUMS`. The [installation guide](INSTALL.md) explains which package to use.
+The [release page](https://github.com/ITineGTS/localease/releases/latest) contains Windows, macOS, iOS and Android APK downloads; SHA-256 hashes appear in the release notes. The [installation guide](INSTALL.md) explains which package to use.
 
 ## Source and privacy
 
