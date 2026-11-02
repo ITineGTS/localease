@@ -46,6 +46,6 @@ On macOS use `shasum -a 256 FILE`; on Windows use `Get-FileHash FILE -Algorithm 
 
 ## First use and help
 
-Sign in or register through the application. Providers complete their profile, service rates and availability. Residents can browse and request a booking. Map permissions are requested when relevant; saved-location previews are labelled separately from live GPS.
+Sign in or register through the application. Providers complete their profile, service rates and availability. Residents can browse and request a booking. Map permissions are requested when relevant; saved-location previews are labelled separately from live GPS. In location search, small pointed markers show each store's category. Tap a marker to view its saved address or use it as the search centre. The map shows published stores; search results follow the distance and filters you choose.
 
 Use Forgot Password for account recovery and the in-app LocalEase support flow for booking/account concerns. EasePay demo funds do not represent real payments. Check the release notes for package signing limits and known deployment requirements.

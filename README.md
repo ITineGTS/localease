@@ -11,6 +11,7 @@ LocalEase helps residents find nearby service providers, request appointments, m
 - Book a service using an address, saved destination and confirmed map pin.
 - View available hours and discuss quotes or appointment changes.
 - Search around a chosen location with an editable distance and category filters.
+- View compact pointed map pins with category icons and colors; tap a store for its saved street/barangay/city address.
 - Offer multiple service categories and request new categories for admin review.
 - Message the other participant and follow the booking's progress.
 - Use provider-shared GPS or clearly labelled saved-location previews.
@@ -18,6 +19,8 @@ LocalEase helps residents find nearby service providers, request appointments, m
 - Use English or Filipino and light or dark appearance.
 
 EasePay currently uses **demo balances**, alongside Cash on Site records. Demo funds are not real money or a payment gateway. LocalEase is a capstone application; current downloads should not be taken as app-store certification or a guarantee about providers.
+
+The demo catalogue includes 120 stores spread across all 17 NCR cities and municipalities. Their addresses and map pins use imported street reference points and represent synthetic demo locations.
 
 ## Downloads
 
