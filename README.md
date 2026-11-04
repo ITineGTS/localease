@@ -6,13 +6,15 @@ LocalEase helps residents find nearby service providers, request appointments, m
 
 ## What you can do
 
-- Browse services and search for providers.
+- Residents and guests can browse services and search for providers; provider/admin/developer accounts use their role-specific workspace.
 - Review provider details, service prices and customer reviews.
 - Book a service using an address, saved destination and confirmed map pin.
 - View available hours and discuss quotes or appointment changes.
 - Search around a chosen location with an editable distance and category filters.
 - View compact pointed map pins with category icons and colors; tap a store for its saved street/barangay/city address.
 - Offer multiple service categories and request new categories for admin review.
+- Providers can decline pending requests but cannot cancel ongoing jobs; residents can cancel their own active booking, and administrators can cancel active bookings.
+- Start work after the resident accepts the required quote, with clear feedback when a booking action is unavailable.
 - Message the other participant and follow the booking's progress.
 - Use provider-shared GPS or clearly labelled saved-location previews.
 - Leave reviews and submit private reports to LocalEase support.
