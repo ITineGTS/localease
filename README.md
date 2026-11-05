@@ -18,6 +18,7 @@ LocalEase helps residents find nearby service providers, request appointments, m
 - Message the other participant and follow the booking's progress.
 - Use provider-shared GPS or clearly labelled saved-location previews.
 - Leave reviews and submit private reports to LocalEase support.
+- Reach support from more screens, use clearer notification delivery status, and navigate wide-screen pages with desktop scrollbars.
 - Use English or Filipino and light or dark appearance.
 
 EasePay currently uses **demo balances**, alongside Cash on Site records. Demo funds are not real money or a payment gateway. LocalEase is a capstone application; current downloads should not be taken as app-store certification or a guarantee about providers.
@@ -26,14 +27,16 @@ The demo catalogue includes 120 stores spread across all 17 NCR cities and munic
 
 ## Downloads
 
+**Current release: LocalEase 1.0.3 (build 5).**
+
 | Platform | Package | Notes |
 |---|---|---|
 | Android | APK | Signed app for direct installation; Android 7.0 or later. |
 | Windows x64 | ZIP | Portable unsigned application. |
-| macOS | ZIP | Universal Intel/Apple Silicon app; macOS 12 or later, ad hoc signed. |
-| iOS | IPA | Unsigned iPhoneOS/arm64 artifact; iOS 15 or later and Apple signing/provisioning required. |
 
-The [release page](https://github.com/ITineGTS/localease/releases/latest) contains Windows, macOS, iOS and Android APK downloads; SHA-256 hashes appear in the release notes. The [installation guide](INSTALL.md) explains which package to use.
+The [release page](https://github.com/ITineGTS/localease/releases/latest) contains Android APK and Windows x64 downloads; SHA-256 hashes appear in the release notes and `SHA256SUMS`. Apple builds are not included in Build 5; older release assets remain available in the release history. The [installation guide](INSTALL.md) explains which package to use.
+
+Android remote push delivery still requires backend sender activation and real-device verification; Build 5 does not certify foreground, background or closed-app delivery.
 
 ## Source and privacy
 
