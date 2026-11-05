@@ -11,6 +11,7 @@ LocalEase helps residents find nearby service providers, request appointments, m
 - Book a service using an address, saved destination and confirmed map pin.
 - View available hours and discuss quotes or appointment changes.
 - Search around a chosen location with an editable distance and category filters.
+- Let the assistant look up an address with Photon, remember its best mapped point for the current chat, and search nearby providers without a compulsory map-selection step. Approximate street/area matches are labelled, and changing accounts clears the remembered point.
 - View compact pointed map pins with category icons and colors; tap a store for its saved street/barangay/city address.
 - Offer multiple service categories and request new categories for admin review.
 - Providers can decline pending requests but cannot cancel ongoing jobs; residents can cancel their own active booking, and administrators can cancel active bookings.
@@ -27,16 +28,19 @@ The demo catalogue includes 120 stores spread across all 17 NCR cities and munic
 
 ## Downloads
 
-**Current release: LocalEase 1.0.3 (build 5).**
+**Current release: LocalEase 1.0.4 (build 6).**
 
 | Platform | Package | Notes |
 |---|---|---|
 | Android | APK | Signed app for direct installation; Android 7.0 or later. |
 | Windows x64 | ZIP | Portable unsigned application. |
+| Linux x64 | tar.gz | Complete compiled application bundle; GTK 3 and glibc 2.34 or newer. |
+| macOS | ZIP | Ad hoc signed application; Developer ID/notarization remains required for trusted distribution. |
+| iOS | IPA | Unsigned developer artifact requiring Apple signing/provisioning. |
 
-The [release page](https://github.com/ITineGTS/localease/releases/latest) contains Android APK and Windows x64 downloads; SHA-256 hashes appear in the release notes and `SHA256SUMS`. Apple builds are not included in Build 5; older release assets remain available in the release history. The [installation guide](INSTALL.md) explains which package to use.
+The [release page](https://github.com/ITineGTS/localease/releases/latest) contains compiled native downloads, including Linux; SHA-256 hashes appear in the release notes and `SHA256SUMS`. Older releases remain available in the release history. The [installation guide](INSTALL.md) explains which package to use.
 
-Android remote push delivery still requires backend sender activation and real-device verification; Build 5 does not certify foreground, background or closed-app delivery.
+Android remote push delivery still requires backend sender activation and real-device verification; This release does not certify foreground, background or closed-app delivery.
 
 ## Source and privacy
 
