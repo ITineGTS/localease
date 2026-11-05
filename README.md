@@ -11,6 +11,7 @@ LocalEase helps residents find nearby service providers, request appointments, m
 - Book a service using an address, saved destination and confirmed map pin.
 - View available hours and discuss quotes or appointment changes.
 - Search around a chosen location with an editable distance and category filters.
+- Refine provider discovery with multiple service categories, rating, billing basis, standard-rate range, verified-provider and completed-job filters.
 - Let the assistant look up an address with Photon, remember its best mapped point for the current chat, and search nearby providers without a compulsory map-selection step. Approximate street/area matches are labelled, and changing accounts clears the remembered point.
 - View compact pointed map pins with category icons and colors; tap a store for its saved street/barangay/city address.
 - Offer multiple service categories and request new categories for admin review.
@@ -20,6 +21,8 @@ LocalEase helps residents find nearby service providers, request appointments, m
 - Use provider-shared GPS or clearly labelled saved-location previews.
 - Leave reviews and submit private reports to LocalEase support.
 - Reach support from more screens, use clearer notification delivery status, and navigate wide-screen pages with desktop scrollbars.
+- Get consistent loading, empty, offline, expired-session and retry states across the marketplace, communication, provider and administration screens.
+- Providers can use explicit foreground or active-job background GPS sharing with clearer consent and status controls on supported mobile platforms.
 - Use English or Filipino and light or dark appearance.
 
 EasePay currently uses **demo balances**, alongside Cash on Site records. Demo funds are not real money or a payment gateway. LocalEase is a capstone application; current downloads should not be taken as app-store certification or a guarantee about providers.
@@ -28,7 +31,7 @@ The demo catalogue includes 120 stores spread across all 17 NCR cities and munic
 
 ## Downloads
 
-**Current release: LocalEase 1.0.4 (build 6).**
+**Current release: LocalEase 1.0.5 (build 7).**
 
 | Platform | Package | Notes |
 |---|---|---|
