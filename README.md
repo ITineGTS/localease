@@ -29,6 +29,18 @@ EasePay currently uses **demo balances**, alongside Cash on Site records. Demo f
 
 The demo catalogue includes 120 stores spread across all 17 NCR cities and municipalities. Their addresses and map pins use imported street reference points and represent synthetic demo locations.
 
+## Hosted web update — November 6, 2026
+
+The [web app](https://localease-api.onrender.com/) and its backend have been updated together. This hosted update includes:
+
+- Separate resident/provider account management and developer-only privileged controls.
+- Up to three photos on customer reviews, with image validation and metadata removal; provider portfolio posting is retired.
+- A profile-photo editor and more compact dashboard layouts.
+- Provider/shop details opened from search map markers, so residents can proceed to booking.
+- Assistant clarification before service suggestions, plus private support intake and case-status lookup.
+
+Hosted web updates are independent of native downloads. The existing native release below remains version 1.0.6 (build 8); no new native packages were published for this web update. Review photos are public while their review is visible—avoid faces, addresses and private documents.
+
 ## Downloads
 
 **Current release: LocalEase 1.0.6 (build 8).**

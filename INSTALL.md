@@ -8,7 +8,7 @@ Download packages from the [latest release](https://github.com/ITineGTS/localeas
 2. Open the APK and follow Android's installation prompts. If required, permit APK installation for the trusted app you used to download it.
 3. Open LocalEase and sign in or create a resident/provider account.
 
-Build 7 is version 1.0.5 with Android version code 7. The APK supports Android 7.0 or later and uses the LocalEase release certificate. Existing installations use the same signing certificate to update.
+The current APK is version 1.0.6 (build 8), with Android version code 8. The APK supports Android 7.0 or later and uses the LocalEase release certificate. Existing installations use the same signing certificate to update.
 
 Android remote push remains dependent on backend sender activation and real-device delivery tests; publishing this APK does not activate the sender.
 
@@ -43,7 +43,7 @@ and real-device acceptance beyond the build host remain separate checks.
 
 The simplest way to use the browser version is to [open LocalEase](https://localease-api.onrender.com/).
 
-No downloadable web package is included in the releases.
+No downloadable web package is included in the releases. The hosted web app and backend were updated together on November 6, 2026; native packages keep their own release version. If an already-open browser shows the older interface, reload the page (Ctrl+Shift+R on Windows/Linux, or Command+Shift+R on macOS).
 
 ## Verify downloads
 
@@ -57,7 +57,7 @@ On Windows use `Get-FileHash FILE -Algorithm SHA256` in PowerShell.
 
 ## First use and help
 
-Sign in or register through the application. Providers complete their profile, service rates and availability. Residents can browse and request a booking. Map permissions are requested when relevant; saved-location previews are labelled separately from live GPS. In location search, small pointed markers show each store's category. Tap a marker to view its saved address or use it as the search centre. The map shows published stores; search results follow the distance and filters you choose.
+Sign in or register through the application. Providers complete their profile, service rates and availability. Residents can browse and request a booking. Map permissions are requested when relevant; saved-location previews are labelled separately from live GPS. In location search, small pointed markers show each store's category. In the updated web app, tap a provider/store result marker to open its details and booking options; centre-selection controls remain separate. Older native builds may show the saved-address/centre-selection flow instead. The map shows published stores; search results follow the distance and filters you choose.
 
 The assistant uses Photon’s best mapped address match as a chat-local search point, not a verified house entrance or an automatically confirmed booking destination.
 
