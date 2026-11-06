@@ -13,13 +13,13 @@ LocalEase helps residents find nearby service providers, request appointments, m
 - Search around a chosen location with an editable distance and category filters.
 - Refine provider discovery with multiple service categories, rating, billing basis, standard-rate range, verified-provider and completed-job filters.
 - Chat naturally with the assistant without being forced to provide an address. Add or change an optional map pin for nearby service results, or open a private LocalEase support case when reporting a problem.
-- View compact pointed map pins with category icons and colors; tap a store for its saved street/barangay/city address.
+- View compact pointed map pins with category icons and colors; tap a provider/store result marker to open its details and booking options.
 - Offer multiple service categories and request new categories for admin review.
 - Providers can decline pending requests but cannot cancel ongoing jobs; residents can cancel their own active booking, and administrators can cancel active bookings.
 - Start work after the resident accepts the required quote, with clear feedback when a booking action is unavailable.
 - Message the other participant and follow the booking's progress.
 - Use provider-shared GPS or clearly labelled saved-location previews.
-- Leave reviews and submit private reports to LocalEase support.
+- Leave reviews with up to three photos and submit private reports to LocalEase support.
 - Reach support from more screens, use clearer notification delivery status, and navigate wide-screen pages with desktop scrollbars.
 - Get consistent loading, empty, offline, expired-session and retry states across the marketplace, communication, provider and administration screens.
 - Providers can use explicit foreground or active-job background GPS sharing with clearer consent and status controls on supported mobile platforms.
@@ -39,11 +39,11 @@ The [web app](https://localease-api.onrender.com/) and its backend have been upd
 - Provider/shop details opened from search map markers, so residents can proceed to booking.
 - Assistant clarification before service suggestions, plus private support intake and case-status lookup.
 
-Hosted web updates are independent of native downloads. The existing native release below remains version 1.0.6 (build 8); no new native packages were published for this web update. Review photos are public while their review is visible—avoid faces, addresses and private documents.
+Hosted web updates are independent of native downloads. The version 1.0.7 (build 9) native packages below include these latest changes. Review photos are public while their review is visible—avoid faces, addresses and private documents.
 
 ## Downloads
 
-**Current release: LocalEase 1.0.6 (build 8).**
+**Current release: LocalEase 1.0.7 (build 9).**
 
 | Platform | Package | Notes |
 |---|---|---|
