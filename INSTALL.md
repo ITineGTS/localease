@@ -8,7 +8,7 @@ Download packages from the [latest release](https://github.com/ITineGTS/localeas
 2. Open the APK and follow Android's installation prompts. If required, permit APK installation for the trusted app you used to download it.
 3. Open LocalEase and sign in or create a resident/provider account.
 
-The current APK is version 1.0.10 (build 12), with Android version code 12. The APK supports Android 7.0 or later and uses the LocalEase release certificate. Existing installations use the same signing certificate to update.
+The current APK is version 1.0.11 (build 13), with Android version code 13. The APK supports Android 7.0 or later and uses the LocalEase release certificate. Existing installations use the same signing certificate to update.
 
 Android remote push remains dependent on backend sender activation and real-device delivery tests; publishing this APK does not activate the sender.
 

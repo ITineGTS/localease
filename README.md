@@ -31,7 +31,7 @@ The demo catalogue includes 120 stores spread across all 17 NCR cities and munic
 
 ## Release update — November 10, 2026
 
-LocalEase 1.0.10 (build 12) puts Privacy & legal and Help & information at the end of every role's profile. Your data & deletion has clearer responsive cards, password visibility and validation, and separate deletion controls. Chat bubbles and date separators align consistently, the assistant's slow-response notice waits ten seconds, and Resident Home keeps its draggable desktop scrollbar at the screen edge.
+LocalEase 1.0.11 (build 13) repairs provider GPS acquisition and stop/resume handling, adds reliable desktop/browser chat photo selection with metadata removal, and improves saving and removing favorite providers. Confirming a booking map pin now fills an editable address while preserving house or unit details. Destination-map controls, address selection and retry feedback work across narrow and wide layouts.
 
 The compiled web update is prepared in the private backend repository. Hosted activation remains separate from native publication; consult the release notes for its verified status.
 
@@ -39,7 +39,7 @@ Review photos are public while their review is visible. Avoid faces, addresses a
 
 ## Downloads
 
-**Current release: LocalEase 1.0.10 (build 12).**
+**Current release: LocalEase 1.0.11 (build 13).**
 
 | Platform | Package | Notes |
 |---|---|---|
