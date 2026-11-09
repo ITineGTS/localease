@@ -29,9 +29,9 @@ EasePay currently uses **demo balances**, alongside Cash on Site records. Demo f
 
 The demo catalogue includes 120 stores spread across all 17 NCR cities and municipalities. Their addresses and map pins use imported street reference points and represent synthetic demo locations.
 
-## Release update — November 9, 2026
+## Release update — November 10, 2026
 
-LocalEase 1.0.9 (build 11) fixes the brief coordinate flash while Photon loads an address, preserves selected address labels, and shows consistent service-provider cards in the map panel. Provider-panel scrolling and desktop chat, assistant and support composers are improved.
+LocalEase 1.0.10 (build 12) puts Privacy & legal and Help & information at the end of every role's profile. Your data & deletion has clearer responsive cards, password visibility and validation, and separate deletion controls. Chat bubbles and date separators align consistently, the assistant's slow-response notice waits ten seconds, and Resident Home keeps its draggable desktop scrollbar at the screen edge.
 
 The compiled web update is prepared in the private backend repository. Hosted activation remains separate from native publication; consult the release notes for its verified status.
 
@@ -39,7 +39,7 @@ Review photos are public while their review is visible. Avoid faces, addresses a
 
 ## Downloads
 
-**Current release: LocalEase 1.0.9 (build 11).**
+**Current release: LocalEase 1.0.10 (build 12).**
 
 | Platform | Package | Notes |
 |---|---|---|
