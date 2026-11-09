@@ -31,15 +31,15 @@ The demo catalogue includes 120 stores spread across all 17 NCR cities and munic
 
 ## Release update — November 9, 2026
 
-LocalEase 1.0.8 (build 10) updates the native applications with clearer administration analytics, responsive summaries, improved search-centre/radius controls, location selection and live-map/GPS controls.
+LocalEase 1.0.9 (build 11) fixes the brief coordinate flash while Photon loads an address, preserves selected address labels, and shows consistent service-provider cards in the map panel. Provider-panel scrolling and desktop chat, assistant and support composers are improved.
 
-The coordinated backend update adds persistent login sessions, transaction sorting, a detailed management report and faster bounded tracking responses. The compiled web bundle and backend source are prepared privately. Hosted activation is separate from native publication; consult the release notes for its verified status.
+The compiled web update is prepared in the private backend repository. Hosted activation remains separate from native publication; consult the release notes for its verified status.
 
 Review photos are public while their review is visible. Avoid faces, addresses and private documents.
 
 ## Downloads
 
-**Current release: LocalEase 1.0.8 (build 10).**
+**Current release: LocalEase 1.0.9 (build 11).**
 
 | Platform | Package | Notes |
 |---|---|---|
